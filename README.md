@@ -10,3 +10,5 @@ Trimgalore and fastqc:
 Picard:
 Jupyternotebook:
 Anaconda:
+Bedtools:
+Bamtools:
