@@ -1,5 +1,5 @@
 # FGFR3fusion
-This repository contains all data for the paper:
+This repository contains all data for the paper: .pipeline_code.sh is a bash script file that generates all bam files for the project. The python notebook runs SVIM for variant detection of the various samples.
 
 Genome reference files are from UCSC golden path:
 Tools used:
