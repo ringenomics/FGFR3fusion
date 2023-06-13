@@ -10,7 +10,7 @@ This repository contains all data for the paper: .pipeline_code.sh is a bash scr
 <br />SVIM: David Heller , Martin Vingron, SVIM: structural variant identification using mapped long reads, Bioinformatics, Volume 35, Issue 17, 1 September 2019, Pages 2907–2915, https://doi.org/10.1093/bioinformatics/btz041 
 <br />Trimgalore and fastqc:
 <br />Picard:
-<br />Jupyternotebook:
-<br />Anaconda:
-<br />Bedtools:
-<br />Bamtools:
+<br />Jupyter notebook:
+<br />Anaconda: Anaconda Software Distribution. (2020). Anaconda Documentation. Anaconda Inc. Retrieved from https://docs.anaconda.com/
+<br />Bedtools: Quinlan, A. R., & Hall, I. M. (2010). BEDTools: a flexible suite of utilities for comparing genomic features. Bioinformatics (Oxford, England), 26(6), 841–842. https://doi.org/10.1093/bioinformatics/btq033
+<br />Bamtools: Derek W. Barnett, Erik K. Garrison, Aaron R. Quinlan, Michael P. Strömberg, and Gabor T. Marth. 2011. BamTools. Bioinformatics 27, 12 (June 2011), 1691–1692. https://doi.org/10.1093/bioinformatics/btr174
