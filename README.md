@@ -2,7 +2,7 @@
 This repository contains all data for the paper: "Incidental detection of FGFR3‐TACC3 fusion via liquid biopsy leading to earlier diagnosis of an
 asymptomatic urothelial carcinoma".
 
-The file layout is as follows. pipeline_code.sh is a bash script file that generates all bam files for the project. The python notebook svim_code_for_reruns runs SVIM for variant detection of the various samples.
+The file layout is as follows. pipeline_code.sh is a bash script file that generates all bam files for the project. The python notebook svim_code_for_reruns.ipynb runs SVIM for variant detection of the various samples.
 
 <br />Tools used:
 
