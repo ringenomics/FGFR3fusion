@@ -1,8 +1,7 @@
 # FGFR3-TACC3 fusion project
-This repository contains all data for the paper: "Incidental detection of FGFR3‐TACC3 fusion via liquid biopsy leading to earlier diagnosis of an
-asymptomatic urothelial carcinoma".
+This repository contains all code used to generate the data for the paper: "Incidental detection of FGFR3‐TACC3 fusion via liquid biopsy leading to earlier diagnosis of an
+asymptomatic urothelial carcinoma". https://www.nature.com/articles/s41698-023-00467-9
 
-The file layout is as follows. pipeline_code.sh is a bash script file that generates all bam files for the project from the raw FASTQ files provided by TEMPUS. The pipeline generates a bam file and a deduplicated bam file where PCR replicates have been removed. It also generates matrics scores along the duraiton of the pipeline that can be accessed. The python notebook svim_code_for_reruns.ipynb runs SVIM for variant detection of the various samples. SVIM commands were modified by setting min_sv_size to 20 and all_bnds to True in order to call smaller variants as well.
 
 <br />Tools used:
 
