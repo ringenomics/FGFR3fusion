@@ -40,7 +40,7 @@ do
 	cd ..
 done
 
-#RACC3 coordinates chr4:1741279-1742970 
+#TACC3 coordinates chr4:1741279-1742970 
 
 
 #running gatk now
