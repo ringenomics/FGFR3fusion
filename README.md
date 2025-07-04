@@ -1,6 +1,5 @@
 # FGFR3-TACC3 fusion project
-This repository contains all code used to generate the data for the paper: "Incidental detection of FGFR3‐TACC3 fusion via liquid biopsy leading to earlier diagnosis of an
-asymptomatic urothelial carcinoma". https://www.nature.com/articles/s41698-023-00467-9
+This repository contains all code used to generate the data for the paper: "Detecting hidden threats using longitudinal liquid biopsies"
 
 
 <br />Tools used:
